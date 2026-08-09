@@ -1,4 +1,6 @@
-<img width="1280" height="1080" alt="TürKod (1)" src="https://github.com/user-attachments/assets/2d7845f0-04c4-4351-8f13-7be73925f808" />
+<img width="800" height="650" alt="TürKod (2)" src="https://github.com/user-attachments/assets/3db0a920-303b-4bb4-8840-06a7be18be7e" />
+
+
 # Hi there, I'm Yusuf 👋
 
 **Software Developer & Creator of [TürKod IDE](https://github.com/YusufX-sys/turkod-ide)**  
