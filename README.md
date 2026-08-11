@@ -21,9 +21,9 @@
 
 ### About
 
-Building **TürKod IDE** — an AI-powered desktop IDE that lets beginners learn programming logic in native Turkish syntax. Integrated with Groq for real-time error resolution and packaged with PyInstaller for zero-dependency deployment.
+We are developing **TürKod IDE** — an AI-powered desktop IDE that enables beginners to learn programming logic with native Turkish syntax. It is packaged with PyInstaller for zero-dependency distribution.
 
-**Focus areas:** AI integration, LLM tooling, developer experience, and breaking language barriers in CS education.
+**Our focus areas are**: AI integration, developer experience, and overcoming language barriers in computer science education.
 
 ---
 
@@ -32,7 +32,7 @@ Building **TürKod IDE** — an AI-powered desktop IDE that lets beginners learn
 | Layer | Stack |
 |:---|:---|
 | **Language** | Python |
-| **AI / LLM** | Groq API, Prompt Engineering |
+| **AI / LLM** | Groq API, OpenAI API, Gemini API, Claude API, Prompt Engineering |
 | **UI Framework** | Tkinter, CustomTkinter |
 | **Build & Deploy** | PyInstaller |
 | **Version Control** | Git, GitHub |
