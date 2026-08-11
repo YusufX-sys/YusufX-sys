@@ -1,47 +1,59 @@
-<img width="800" height="650" alt="TürKod (2)" src="https://github.com/user-attachments/assets/3db0a920-303b-4bb4-8840-06a7be18be7e" />
+<p align="center">
+  <img width="700" alt="TürKod (2)" src="https://github.com/user-attachments/assets/3db0a920-303b-4bb4-8840-06a7be18be7e" />
+</p>
 
+<h1 align="center">👋 Hello There, I'm Yusuf</h1>
+<p align="center">
+  <b>Indie Developer & Creator of <a href="https://github.com/YusufX-sys/turkod-ide">TürKod IDE</a></b>
+</p>
 
-# Hi there, I'm Yusuf 👋 
-
-![Git Verified](https://img.shields.io/badge/Git-Verified-success?style=flat-square&logo=git&logoColor=white)
-
-
-**Software Developer & Creator of [TürKod IDE](https://github.com/YusufX-sys/turkod-ide)**  
-> *Passionate about open-source development, AI integration, and making coding accessible for everyone.*
-
----
-
-### 🚀 About Me
-
-* 💡 Currently building **TürKod IDE** — an AI-powered desktop IDE with Turkish syntax support.
-* 🤖 Focused on **AI integration**, **LLMs** (Groq), and developer tooling.
-* 🎯 **Mission:** Breaking down language barriers in computer science education.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies / Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **AI & LLMs** | ![Groq](https://img.shields.io/badge/Groq-f368e0?style=flat-square) `Prompt Engineering` |
-| **Tools & Environment** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) `PyInstaller` `IDLE` |
+<p align="center">
+  <a href="https://github.com/YusufX-sys/turkod-ide/releases">
+    <img src="https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=flat-square&logo=github" alt="Download">
+  </a>
+  <a href="https://github.com/YusufX-sys/turkod-ide/stargazers">
+    <img src="https://img.shields.io/github/stars/YusufX-sys/turkod-ide?style=flat-square&color=f4d03f" alt="Stars">
+  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+</p>
 
 ---
 
-### 📌 Featured Project
+### About
 
-#### 🌟 [TürKod IDE](https://github.com/YusufX-sys/turkod-ide)
-An open-source, AI-powered desktop IDE designed to make learning algorithms intuitive with native **Turkish syntax support**.
+Building **TürKod IDE** — an AI-powered desktop IDE that lets beginners learn programming logic in native Turkish syntax. Integrated with Groq for real-time error resolution and packaged with PyInstaller for zero-dependency deployment.
 
-* 🤖 **AI Assistant:** Integrated with Groq for smart error resolution.
-* 🎓 **Education-First:** Designed for beginners to master programming logic without language barriers.
-* 📦 **Standalone:** Packaged with PyInstaller for lightweight desktop deployment.
-
-👉 **[Explore the Repository & Contribute →](https://github.com/YusufX-sys/turkod-ide/releases)**
+**Focus areas:** AI integration, LLM tooling, developer experience, and breaking language barriers in CS education.
 
 ---
 
-### 📫 Connect With Me
+### Tech Stack
 
-[![GitHub](https://img.shields.io/badge/GitHub-YusufX--sys-181717?style=for-the-badge&logo=github)](https://github.com/YusufX-sys)
+| Layer | Stack |
+|:---|:---|
+| **Language** | Python |
+| **AI / LLM** | Groq API, Prompt Engineering |
+| **UI Framework** | Tkinter, CustomTkinter |
+| **Build & Deploy** | PyInstaller |
+| **Version Control** | Git, GitHub |
+
+---
+
+### Featured Project
+
+**<a href="https://github.com/YusufX-sys/turkod-ide">TürKod IDE</a>** — Open-source, AI-powered desktop IDE with native Turkish syntax support.
+
+- 🤖 Groq-integrated AI assistant for error resolution
+- 🎓 Education-first design for algorithmic thinking
+- 📦 Single-file standalone executable
+
+---
+
+### Connect
+
+<a href="https://github.com/YusufX-sys">
+  <img src="https://img.shields.io/badge/GitHub-YusufX--sys-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+<a href="https://github.com/YusufX-sys/turkod-ide/releases">
+  <img src="https://img.shields.io/badge/Download-TürKod-2ea44f?style=flat-square&logo=github&logoColor=white">
+</a>
