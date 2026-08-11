@@ -1,7 +1,10 @@
 <img width="800" height="650" alt="TürKod (2)" src="https://github.com/user-attachments/assets/3db0a920-303b-4bb4-8840-06a7be18be7e" />
 
 
-# Hi there, I'm Yusuf 👋
+# Hi there, I'm Yusuf 👋 
+
+![Git Verified](https://img.shields.io/badge/Git-Verified-success?style=flat-square&logo=git&logoColor=white)
+
 
 **Software Developer & Creator of [TürKod IDE](https://github.com/YusufX-sys/turkod-ide)**  
 > *Passionate about open-source development, AI integration, and making coding accessible for everyone.*
