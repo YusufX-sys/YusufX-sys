@@ -32,8 +32,8 @@ We are developing **TürKod IDE** — an AI-powered desktop IDE that enables beg
 | Layer | Stack |
 |:---|:---|
 | **Language** | Python |
-| **AI / LLM** | Groq API, OpenAI API, Gemini API, Claude API, Prompt Engineering |
-| **UI Framework** | Tkinter, CustomTkinter |
+| **AI / LLM** | Groq, OpenAI, Gemini, Claude, Prompt Engineering |
+| **UI Framework** | CustomTkinter |
 | **Build & Deploy** | PyInstaller |
 | **Version Control** | Git, GitHub |
 
