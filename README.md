@@ -1,59 +1,84 @@
 <p align="center">
-  <img width="700" alt="TürKod (2)" src="https://github.com/user-attachments/assets/3db0a920-303b-4bb4-8840-06a7be18be7e" />
+  <img width="100%" alt="TürKod IDE Banner" src="https://github.com/user-attachments/assets/3db0a920-303b-4bb4-8840-06a7be18be7e" />
 </p>
 
-<h1 align="center">👋 Hello There, I'm Yusuf</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2EA44F&center=true&vcenter=true&width=500&lines=%F0%9F%90%8B+Hello+There!+I'm+Yusuf;%F0%9F%9A%80+Creator+of+T%C3%BCrKod+IDE;%F0%9F%A4%96+Indie+Developer+%26+Maker" alt="Typing SVG" />
+  </a>
+</h1>
+
 <p align="center">
-  <b>Indie Developer & Creator of <a href="https://github.com/YusufX-sys/turkod-ide">TürKod IDE</a></b>
+  <b>Building the future of Turkish-native programming tools for absolute beginners.</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/YusufX-sys/turkod-ide/releases">
-    <img src="https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=flat-square&logo=github" alt="Download">
+    <img src="https://img.shields.io/badge/Download-Latest_Release-2ea44f?style=for-the-badge&logo=github" alt="Download">
   </a>
   <a href="https://github.com/YusufX-sys/turkod-ide/stargazers">
-    <img src="https://img.shields.io/github/stars/YusufX-sys/turkod-ide?style=flat-square&color=f4d03f" alt="Stars">
+    <img src="https://img.shields.io/github/stars/YusufX-sys/turkod-ide?style=for-the-badge&color=f4d03f" alt="Stars">
   </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <a href="https://linkedin.com/in/LINKEDIN_KULLANICI_ADIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
 </p>
 
 ---
 
-### About
+### ⚡ About Me
 
-We are developing **TürKod IDE** — an AI-powered desktop IDE that enables beginners to learn programming logic with native Turkish syntax. It is packaged with PyInstaller for zero-dependency distribution.
-
-**Our focus areas are**: AI integration, developer experience, and overcoming language barriers in computer science education.
+- 🚀 **Currently Building:** **[TürKod IDE](https://github.com/YusufX-sys/turkod-ide)** — An AI-powered standalone desktop IDE bringing native Turkish syntax to beginner coders.
+- 🎯 **Focus Areas:** AI/LLM integration, developer tooling, and removing language barriers in software education.
+- 💡 **Philosophy:** Zero-dependency, lightweight, and standalone user experience.
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack & Tools
 
-| Layer | Stack |
+| Layer | Stack & Technologies |
 |:---|:---|
-| **Language** | Python |
-| **AI / LLM** | Groq, OpenAI, Gemini, Claude, Prompt Engineering |
-| **UI Framework** | CustomTkinter |
-| **Build & Deploy** | PyInstaller |
-| **Version Control** | Git, GitHub |
+| **Language** | `Python 3.12+` |
+| **AI / LLM** | `Groq API` • `OpenAI` • `Gemini` • `Anthropic` • `Prompt Engineering` |
+| **UI Framework** | `CustomTkinter` • `Tkinter` |
+| **Build & Deploy** | `PyInstaller` • `Windows Executable (.exe)` |
+| **Version Control** | `Git` • `GitHub` |
 
 ---
 
-### Featured Project
+### ⭐ Featured Project
 
-**<a href="https://github.com/YusufX-sys/turkod-ide">TürKod IDE</a>** — Open-source, AI-powered desktop IDE with native Turkish syntax support.
+#### 🇹🇷 **[TürKod IDE](https://github.com/YusufX-sys/turkod-ide)** — AI-Powered Turkish Desktop IDE
 
-- 🤖 Groq-integrated AI assistant for error resolution
-- 🎓 Education-first design for algorithmic thinking
-- 📦 Single-file standalone executable
+> *An open-source, zero-dependency IDE designed to eliminate the English language barrier for Turkish-speaking learners.*
+
+- 🤖 **AI Assistant:** Integrated Groq LLM for real-time syntax checking and error resolution.
+- 📦 **Zero Installation:** Bundled standalone executable using PyInstaller for seamless usage.
+- 🎓 **Education-First:** Designed around algorithmic thinking and accessible code structures.
 
 ---
 
-### Connect
+### 📊 GitHub Stats
 
-<a href="https://github.com/YusufX-sys">
-  <img src="https://img.shields.io/badge/GitHub-YusufX--sys-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-<a href="https://github.com/YusufX-sys/turkod-ide/releases">
-  <img src="https://img.shields.io/badge/Download-TürKod-2ea44f?style=flat-square&logo=github&logoColor=white">
-</a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YusufX-sys&theme=github_dark" height="300" alt="Summary Cards" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YusufX-sys&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/yusuf-tandoğan-591731428">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/YusufX-sys">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://github.com/YusufX-sys/turkod-ide/releases">
+    <img src="https://img.shields.io/badge/Download_TürKod-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Download">
+  </a>
+</p>
