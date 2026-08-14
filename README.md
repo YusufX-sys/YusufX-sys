@@ -19,7 +19,7 @@
   <a href="https://github.com/YusufX-sys/turkod-ide/stargazers">
     <img src="https://img.shields.io/github/stars/YusufX-sys/turkod-ide?style=for-the-badge&color=f4d03f" alt="Stars">
   </a>
-  <a href="https://linkedin.com/in/LINKEDIN_KULLANICI_ADIN">
+  <a href="https://linkedin.com/in/yusuf-tandoğan-591731428">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
