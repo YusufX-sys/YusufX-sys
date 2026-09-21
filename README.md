@@ -38,7 +38,7 @@
 
 | Layer | Stack & Technologies |
 |:---|:---|
-| **Language** | `Python 3.12+` |
+| **Language** | `Python 3.12+` `JavaScript` |
 | **AI / LLM** | `Groq API` • `OpenAI` • `Gemini` • `Anthropic` • `Prompt Engineering` |
 | **UI Framework** | `CustomTkinter` • `Tkinter` |
 | **Build & Deploy** | `PyInstaller` • `Windows Executable (.exe)` |
