@@ -38,10 +38,10 @@
 
 | Layer | Stack & Technologies |
 |:---|:---|
-| **Language** | `Python 3.12+` `JavaScript` |
+| **Language** | `Python 3.12+` • `JavaScript` • `Dart` |
 | **AI / LLM** | `Groq API` • `OpenAI` • `Gemini` • `Anthropic` • `Prompt Engineering` |
-| **UI Framework** | `CustomTkinter` • `Tkinter` |
-| **Build & Deploy** | `PyInstaller` • `Windows Executable (.exe)` |
+| **UI Framework** | `Dart (Flutter) UI` |
+| **Build & Deploy** | `PyInstaller` • `Flutter Build` • `Windows Executable (.exe)` |
 | **Version Control** | `Git` • `GitHub` |
 
 ---
